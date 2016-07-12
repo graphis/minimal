@@ -2,7 +2,7 @@
     "config": {
         "vendor-dir": "system"
     },
-    "name": "project/skeleton",
+    "name": "graphis/minimal",
     "description": "A project skeleton",
     "type": "project",
     "license": "MIT",
