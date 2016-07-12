@@ -16,5 +16,10 @@
             "name": "Zsolt Sándor",
             "email": "zsolt.sandor@gmx.com"
         }
-    ]
+    ],
+    "scripts": {
+        "post-create-project-cmd" : [
+            "php post.php"
+        ]
+    }
 }
