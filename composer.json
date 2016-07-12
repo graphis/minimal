@@ -1,0 +1,20 @@
+{
+    "config": {
+        "vendor-dir": "system"
+    },
+    "name": "project/skeleton",
+    "description": "A project skeleton",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Application\\": "application/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zsolt Sándor",
+            "email": "zsolt.sandor@gmx.com"
+        }
+    ]
+}
